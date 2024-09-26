@@ -16,3 +16,10 @@ En este tema realizaremos las siguientes actividades:
 | Abrimos Editor        | - Le pasamos Código Fuente  | - Ejecutamos el Archivo
 | Escribimos Código     | - Ejecutamos Compilador     |
 | Guardamos Código      |                             |
+
+
+Tareas por Realizar:
+
+- [X]  ∼Editar∼
+- [ ]  Compilar
+- [ ]  Ejecutar
