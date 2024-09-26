@@ -23,3 +23,5 @@ Tareas por Realizar:
 - [X]  ∼Editar∼
 - [ ]  Compilar
 - [ ]  Ejecutar
+
+![Imagen2](1_2erdnWAaS4KohooyZq_2bQ.jpg)
